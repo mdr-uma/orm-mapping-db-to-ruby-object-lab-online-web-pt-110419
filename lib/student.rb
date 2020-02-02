@@ -87,7 +87,7 @@ class Student
     self.new_from_db(first_student_row)
   end
 
-  def self.all_students_in_grade_X(X)
+  def self.all_students_in_grade_X()
 
   end
 
